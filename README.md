@@ -1,5 +1,5 @@
   # Valentine's Day Card Web Page
-  This web page is a charming interactive Valentine's Day card designed to engage visitors with a playful question, "Will you be my Valentine?". It features elegant typography, utilizing the "Dancing Script" and "Raleway" fonts for a sophisticated look, and an interactive series of animations and responses based on user input. The design is centered around a heart theme, with gif animations that change according to the user's choices, enhancing the overall experience with visual feedback.
+  This web page is an interactive and elegantly designed Valentine's Day card, engaging visitors with the playful question, "Will you be my Valentine?" The design incorporates sophisticated typography, featuring the Dancing Script and Raleway fonts, and utilizes interactive animations that respond dynamically to user input. A heart-themed aesthetic, complemented by animated GIFs, enhances the user experience with visually appealing feedback.
   
   ## Table of Contents
   - [Features](#features)
@@ -9,7 +9,7 @@
   - [Questions](#questions)
   
   ## Features
-  - **Elegant Design:** Utilizes Google Fonts for beautiful typography.
+  - **Elegant Design:** Incorporates Google Fonts to enhance the visual appeal.
   - **Interactive Buttons:** Users can respond to the Valentine's proposal with "YES" or "NO" buttons, leading to different animated responses.
   - **Error Handling:** An "Error, we need to restart" button appears if the user repeatedly chooses "NO", allowing them to restart the interaction.
   - **Custom Cursor:** Enhances user interaction with a custom cursor.
@@ -41,6 +41,6 @@
   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
   ## Questions
-  For questions, please contact me at a.derkacz@gmail.com.
-  GitHub: [adriannaderkacz](https://github.com/adriannaderkacz).
+  For questions, please contact me at levi.vercel.app.
+  GitHub: [adriannaderkacz](levicoc35@gmail.com).
   
